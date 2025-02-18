@@ -1,11 +1,11 @@
-// let arr = [];
+let arr5 = [];
 
-// arr.push("monu");
-// arr.push(3);
-// arr.push(76);
-// arr.pop();
-// arr.unshift("kuldeep");
-// arr.shift();
+arr.push("monu");
+arr.push(3);
+arr.push(76);
+arr.pop();
+arr.unshift("kuldeep");
+arr.shift();
 
 // let a = arr.toString();
 
