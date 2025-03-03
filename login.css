@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.boxform {
+  display: flex;
+  border: 2px solid black;
+  border-radius: 20px;
+  height: 60%;
+  width: 30%;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  margin: 40px;
+}
+h1 {
+  margin: 30px;
+}
